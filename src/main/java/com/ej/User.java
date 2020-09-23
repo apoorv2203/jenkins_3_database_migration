@@ -15,7 +15,7 @@ public class User {
   private String email;
 
   public User(){
-
+  Sydtem.out.println("testing");
   }
   public User(Long id, String name) {
     this.id = id;
